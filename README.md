@@ -1,4 +1,4 @@
-# Arduino LDR Laser Detector
+# Projeto 2 - Arduino LDR Laser Detector
 
 Projeto desenvolvido para a unidade curricular de **Sistemas Embarcados**, do curso de **Análise e Desenvolvimento de Sistemas**, com o objetivo de simular um detector de passagem de objetos utilizando Arduino Uno.
 
